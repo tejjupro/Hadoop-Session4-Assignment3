@@ -1,0 +1,3 @@
+1. To manage High volume of data in cost effective manner.
+2. To analyse High volume and wide variety of data
+
